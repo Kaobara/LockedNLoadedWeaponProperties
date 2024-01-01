@@ -1,0 +1,14 @@
+{
+    "id": "locked-n-loaded-weapon-properties",
+    "title": "Locked & Loaded A Guide to Firearms Weapon Properties",
+    "description": "Adds new weapon properties from Drev's Locked & Loaded A Guide to Firearms to the D&D 5e system.",
+    "version": "0.1",
+    "author": "Kaobara",
+    "systems": ["dnd5e"],
+    "styles": [],
+    "scripts": ["lockednloadedwp.js"],
+    "manifest": "https://raw.githubusercontent.com/Kaobara/LockedNLoadedWeaponProperties/main/module.json",
+    "download": "https://github.com/Kaobara/LockedNLoadedWeaponProperties/archive/main.zip",
+    "compatibility": {"minimum":"10",
+    "verified": "11.315"}
+  }
